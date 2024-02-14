@@ -68,4 +68,4 @@ N/A
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+The author of this tutorial is a polyglot and former elementary school teacher who is now a current coding student seeking future opportunities in Software development. As a Silicon Valley resident, Maymi Sarr is eager to continue learning and is looking forward to keeping up with updates and new developments in technology.
